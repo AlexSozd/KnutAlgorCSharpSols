@@ -1,0 +1,8 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\bin\Debug\Algorithm_D.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\bin\Debug\Algorithm_D.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\BinaryTree\obj\Debug\BinaryTree.pdb

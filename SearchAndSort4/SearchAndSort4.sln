@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_T", "Algorithm_T\Algorithm_T.csproj", "{FB825CD6-CF81-4619-8040-DA86E12F9E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeMaker", "TreeMaker\TreeMaker.csproj", "{035BEF63-6B40-417E-82AC-95BBE8D37495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_D", "Algorithm_D\Algorithm_D.csproj", "{3D1092A8-BADF-493F-A3E0-6C2CEDEAAC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{F6EF003B-00C6-431C-9095-DD84A9366CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB825CD6-CF81-4619-8040-DA86E12F9E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB825CD6-CF81-4619-8040-DA86E12F9E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB825CD6-CF81-4619-8040-DA86E12F9E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB825CD6-CF81-4619-8040-DA86E12F9E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035BEF63-6B40-417E-82AC-95BBE8D37495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035BEF63-6B40-417E-82AC-95BBE8D37495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035BEF63-6B40-417E-82AC-95BBE8D37495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035BEF63-6B40-417E-82AC-95BBE8D37495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1092A8-BADF-493F-A3E0-6C2CEDEAAC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1092A8-BADF-493F-A3E0-6C2CEDEAAC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1092A8-BADF-493F-A3E0-6C2CEDEAAC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1092A8-BADF-493F-A3E0-6C2CEDEAAC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EF003B-00C6-431C-9095-DD84A9366CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EF003B-00C6-431C-9095-DD84A9366CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EF003B-00C6-431C-9095-DD84A9366CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EF003B-00C6-431C-9095-DD84A9366CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

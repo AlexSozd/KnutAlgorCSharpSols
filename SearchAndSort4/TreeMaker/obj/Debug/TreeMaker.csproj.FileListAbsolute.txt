@@ -1,0 +1,8 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\bin\Debug\TreeMaker.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\bin\Debug\TreeMaker.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\bin\Debug\TreeMaker.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\bin\Debug\Algorithm_T.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\bin\Debug\Algorithm_T.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\obj\Debug\TreeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\obj\Debug\TreeMaker.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\TreeMaker\obj\Debug\TreeMaker.pdb

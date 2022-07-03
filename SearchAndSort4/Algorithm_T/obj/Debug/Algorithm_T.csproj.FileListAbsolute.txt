@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\bin\Debug\Algorithm_T.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\bin\Debug\Algorithm_T.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\bin\Debug\Algorithm_T.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\obj\Debug\Algorithm_T.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\obj\Debug\Algorithm_T.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\obj\Debug\Algorithm_T.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\obj\Debug\Algorithm_T.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\obj\Debug\Algorithm_T.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort4\Algorithm_T\obj\Debug\Algorithm_T.pdb
