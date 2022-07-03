@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\bin\Debug\Algorithm_D.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\bin\Debug\Algorithm_D.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\bin\Debug\Algorithm_D.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\bin\Debug\Algorithm_T.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\bin\Debug\Algorithm_T.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\obj\Debug\Algorithm_D.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\obj\Debug\Algorithm_D.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\obj\Debug\Algorithm_D.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\obj\Debug\Algorithm_D.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\obj\Debug\Algorithm_D.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\SearchAndSort2\Algorithm_D\obj\Debug\Algorithm_D.pdb

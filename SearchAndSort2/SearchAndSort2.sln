@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_T", "Algorithm_T\Algorithm_T.csproj", "{DDC2CBD8-2775-4477-AB08-BF12ACD2F98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_D", "Algorithm_D\Algorithm_D.csproj", "{57051322-9A3A-4808-A979-A6B906B6EA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{CA2F3B4E-6C9A-4A84-BE2F-6C532A3C07CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC2CBD8-2775-4477-AB08-BF12ACD2F98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC2CBD8-2775-4477-AB08-BF12ACD2F98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC2CBD8-2775-4477-AB08-BF12ACD2F98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC2CBD8-2775-4477-AB08-BF12ACD2F98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57051322-9A3A-4808-A979-A6B906B6EA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57051322-9A3A-4808-A979-A6B906B6EA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57051322-9A3A-4808-A979-A6B906B6EA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57051322-9A3A-4808-A979-A6B906B6EA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2F3B4E-6C9A-4A84-BE2F-6C532A3C07CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2F3B4E-6C9A-4A84-BE2F-6C532A3C07CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2F3B4E-6C9A-4A84-BE2F-6C532A3C07CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2F3B4E-6C9A-4A84-BE2F-6C532A3C07CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
