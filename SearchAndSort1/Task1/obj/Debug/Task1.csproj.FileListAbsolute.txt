@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\bin\Debug\Task1.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\bin\Debug\Task1.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\obj\Debug\Task1.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\SearchAndSort1\Task1\obj\Debug\Task1.pdb
